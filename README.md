@@ -5,7 +5,7 @@ template example kinda
 
 ### note presence of layout.html to support inheritance
 
-#Warning
+# Warning
 additonal changes will be necessary to fully support inheritance
 
 ## TO DO
